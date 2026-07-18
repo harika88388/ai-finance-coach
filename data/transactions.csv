@@ -1,0 +1,63 @@
+Date,Transaction Description,Category,Amount,Type
+2024-01-01,Employer Payroll Deposit,Salary,3200.0,Income
+2024-01-02,Parkview Apartments,Rent,1200.0,Expense
+2024-01-02,Netflix,Entertainment,15.0,Expense
+2024-01-03,Starbucks,Food & Drink,6.41,Expense
+2024-01-03,Shell Gas Station,Transport,41.56,Expense
+2024-01-04,City Electric Co,Utilities,62.0,Expense
+2024-01-04,Chipotle,Food & Drink,8.93,Expense
+2024-01-05,Water Utility,Utilities,44.73,Expense
+2024-01-05,Chipotle,Food & Drink,10.15,Expense
+2024-01-07,Comcast Internet,Utilities,70.0,Expense
+2024-01-08,Local Diner,Food & Drink,21.23,Expense
+2024-01-09,Metro Transit Card,Transport,20.0,Expense
+2024-01-12,Uber,Transport,30.88,Expense
+2024-01-15,Metro Transit Card,Transport,20.0,Expense
+2024-01-15,Vanguard Auto-Invest,Investment,300.0,Expense
+2024-01-18,Starbucks,Food & Drink,6.19,Expense
+2024-01-19,Starbucks,Food & Drink,8.64,Expense
+2024-01-19,AMC Theatres,Entertainment,17.38,Expense
+2024-01-20,Spotify,Entertainment,10.0,Expense
+2024-01-23,Whole Foods Market,Food & Drink,49.58,Expense
+2024-01-26,Chipotle,Food & Drink,16.69,Expense
+2024-02-01,Employer Payroll Deposit,Salary,3200.0,Income
+2024-02-02,Parkview Apartments,Rent,1200.0,Expense
+2024-02-05,Shell Gas Station,Transport,32.4,Expense
+2024-02-06,Comcast Internet,Utilities,70.0,Expense
+2024-02-06,Chipotle,Food & Drink,11.7,Expense
+2024-02-06,Whole Foods Market,Food & Drink,52.36,Expense
+2024-02-07,City Electric Co,Utilities,138.82,Expense
+2024-02-07,Shell Gas Station,Transport,44.66,Expense
+2024-02-08,Starbucks,Food & Drink,13.04,Expense
+2024-02-09,Water Utility,Utilities,35.56,Expense
+2024-02-12,AMC Theatres,Entertainment,18.14,Expense
+2024-02-13,Chipotle,Food & Drink,10.68,Expense
+2024-02-14,Spotify,Entertainment,10.0,Expense
+2024-02-18,Spotify,Entertainment,10.0,Expense
+2024-02-19,Uber,Transport,31.66,Expense
+2024-02-20,Starbucks,Food & Drink,10.98,Expense
+2024-02-21,Chipotle,Food & Drink,14.88,Expense
+2024-02-21,Shell Gas Station,Transport,38.77,Expense
+2024-02-22,Whole Foods Market,Food & Drink,38.69,Expense
+2024-02-22,Whole Foods Market,Food & Drink,42.7,Expense
+2024-03-01,Employer Payroll Deposit,Salary,3200.0,Income
+2024-03-01,Local Diner,Food & Drink,33.85,Expense
+2024-03-01,Spotify,Entertainment,10.0,Expense
+2024-03-01,AMC Theatres,Entertainment,15.13,Expense
+2024-03-02,Parkview Apartments,Rent,1200.0,Expense
+2024-03-04,Comcast Internet,Utilities,70.0,Expense
+2024-03-04,Water Utility,Utilities,33.06,Expense
+2024-03-04,Metro Transit Card,Transport,20.0,Expense
+2024-03-05,City Electric Co,Utilities,100.76,Expense
+2024-03-07,Metro Transit Card,Transport,20.0,Expense
+2024-03-10,Starbucks,Food & Drink,8.78,Expense
+2024-03-13,Starbucks,Food & Drink,8.2,Expense
+2024-03-15,Vanguard Auto-Invest,Investment,300.0,Expense
+2024-03-17,Local Diner,Food & Drink,16.29,Expense
+2024-03-17,Chipotle,Food & Drink,15.62,Expense
+2024-03-18,Uber,Transport,33.74,Expense
+2024-03-22,Starbucks,Food & Drink,11.93,Expense
+2024-03-25,Chipotle,Food & Drink,14.41,Expense
+2024-03-26,Whole Foods Market,Food & Drink,67.63,Expense
+2024-03-27,Shell Gas Station,Transport,44.17,Expense
+2024-03-27,AMC Theatres,Entertainment,34.59,Expense
